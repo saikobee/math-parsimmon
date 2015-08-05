@@ -1,0 +1,14 @@
+{
+  "name": "math-parsimmon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parsimmon": "git+https://github.com/jneen/parsimmon.git"
+  }
+}
